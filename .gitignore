@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Large media and generated outputs
+*.mp4
+overlays/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
